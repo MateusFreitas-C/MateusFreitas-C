@@ -1,7 +1,7 @@
 
 
 ### Oi 👋, me chamo Mateus Freitas
-Sou um estudante do 1º Período de Engenharia de Computação da UFPB.
+Sou um estudante do 2º Período de Engenharia de Computação da UFPB.
 - 👨🏽‍🎓 👨🏽‍🏫 Tenho o grande desejo de sempre aprender e fazer coisas novas e diferentes. 
 - 💻👨🏽‍🔬 Busco colaborar com algo por meio de meus projetos. 
 
