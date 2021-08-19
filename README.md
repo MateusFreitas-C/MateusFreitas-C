@@ -3,7 +3,7 @@
 ### Oi 👋, me chamo Mateus Freitas
 Sou um estudante do 2º Período de Engenharia de Computação da UFPB.
 - 👨🏽‍🎓 👨🏽‍🏫 Tenho o grande desejo de sempre aprender e fazer coisas novas e diferentes. 
-- 💻👨🏽‍🔬 Busco colaborar com algo por meio de meus projetos. 
+- 💻👨🏽‍🔬 Busco focar nos estudos em Data Science e Machine Learning.
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=MateusFreitas-C)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusFreitas-C)
