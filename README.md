@@ -1,7 +1,7 @@
 
 
 ### Hi 👋, I'm Mateus Freitas
-I'm a Engineering student at the [Federal University of Paraiba](https://www.ufpb.br/).
+ I’m an undergradute computer engineering student at the [Federal University of Paraiba](https://www.ufpb.br/).
 - 👨🏽‍🎓 👨🏽‍🏫 I always trying to learn a lot from the community and share my knowledge, 
 - 💻👨🏽‍🔬 I'm focused on study Data Science and Machine Learning.
 
