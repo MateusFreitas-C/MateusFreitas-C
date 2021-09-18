@@ -1,9 +1,9 @@
 
 
 ### Hi 👋, I'm Mateus Freitas
- I’m an undergradute computer engineering student at the [Federal University of Paraiba](https://www.ufpb.br/).
-- 👨🏽‍🎓 👨🏽‍🏫 I always trying to learn a lot from the community and share my knowledge, 
-- 💻👨🏽‍🔬 I'm focused on study Data Science and Machine Learning.
+ Aluno de Graduação no curso de Engenharia de Computaççao pela [Universidade Federal da Paraíba](https://www.ufpb.br/).
+-💻👨🏽‍🏫Atuo como voluntário de Iniciação Científica no projeto "Implementação de um Ambiente de Validação de Modelos de Aprendizagem de Máquina para Gerenciamento de Redes LoRaWAN";
+- 💻👨🏽‍🔬 Foco meus estudos em Machine Learning, Ciência de Dados e Desenvolvimento de Software;
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=MateusFreitas-C)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusFreitas-C)
