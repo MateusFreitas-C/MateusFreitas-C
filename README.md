@@ -3,7 +3,7 @@
 ### Hi 👋, I'm Mateus Freitas
  Aluno de Graduação no curso de Engenharia de Computaççao pela [Universidade Federal da Paraíba](https://www.ufpb.br/).
  
-- 💻👨🏽‍🏫Atuo como voluntário de Iniciação Científica no projeto "Implementação de um Ambiente de Validação de Modelos de Aprendizagem de Máquina para Gerenciamento de Redes LoRaWAN";
+- 💻👨🏽‍🏫Bolsista de Iniciação Científica no projeto "Implementação de um Ambiente de Validação de Modelos de Aprendizagem de Máquina para Gerenciamento de Redes LoRaWAN";
 - 💻👨🏽‍🔬 Foco meus estudos em Machine Learning, Ciência de Dados e Desenvolvimento de Software;
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=MateusFreitas-C)
