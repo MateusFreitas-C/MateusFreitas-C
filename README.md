@@ -4,7 +4,7 @@
  Aluno de Graduação no curso de Engenharia de Computação pela [Universidade Federal da Paraíba](https://www.ufpb.br/).
  
 - 💻👨🏽‍🏫Bolsista de Iniciação Científica no projeto "Implementação de um Ambiente de Validação de Modelos de Aprendizagem de Máquina para Gerenciamento de Redes LoRaWAN";
-- 💻👨🏽‍🔬 Foco meus estudos em Machine Learning, Ciência de Dados e Desenvolvimento de Software;
+- 💻👨🏽‍🔬 Foco meus estudos em Machine Learning, Ciência de Dados e Desenvolvimento Web;
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=MateusFreitas-C)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusFreitas-C)
